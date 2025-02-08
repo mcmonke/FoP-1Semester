@@ -1,0 +1,25 @@
+Содержимое source.txt: 
+Let's start
+
+Содержимое key.txt: 
+The only memory left is trauma
+Imaginary friend's kind words
+The evening train was shaking
+I purified the imperfect flowers
+The pain in my heart getting higher
+My comedy show at its peak
+The frogs were crying on our way home
+This is my last war
+
+Содержимое encoded.txt: 
+m��H� 56#46
+
+Содержимое decoded.txt: 
+Let's start
+
+             45|            11|
+|       a|                1|                1|               45|            11|
+|       e|                1|                1|               45|            11|
+|       r|                1|                1|               45|            11|
+|       s|                2|                2|               45|            11|
+|       t|                3|                2|               45|            11|

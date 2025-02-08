@@ -1,0 +1,32 @@
+—одержимое source.txt: 
+привет! а ты был на озере?
+
+—одержимое key.txt: 
+The only memory left is trauma
+Imaginary friend's kind words
+The evening train was shaking
+I purified the imperfect flowers
+The pain in my heart getting higher
+My comedy show at its peak
+The frogs were crying on our way home
+This is my last war
+
+—одержимое encoded.txt: 
+	B Ґ ЛФ М¶Ц …Љ xqozo…
+
+—одержимое decoded.txt: 
+привет! а ты был на озере?
+
+ 2|                2|               45|            26|
+|       б|                1|                1|               45|            26|
+|       в|                1|                1|               45|            26|
+|       е|                3|                2|               45|            26|
+|       з|                1|                1|               45|            26|
+|       и|                1|                1|               45|            26|
+|       л|                1|                1|               45|            26|
+|       н|                1|                1|               45|            26|
+|       о|                1|                1|               45|            26|
+|       п|                1|                1|               45|            26|
+|       р|                2|                2|               45|            26|
+|       т|                2|                2|               45|            26|
+|       ы|                2|                2|               45|            26|
